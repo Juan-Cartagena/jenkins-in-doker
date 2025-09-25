@@ -67,12 +67,14 @@ Una vez que el contenedor está en ejecución, necesitas completar el asistente 
     *************************************************************
     ```
     ![Ejemplo](/docker-in-docker/images/configuracion-inicial-jenkins.png)
+
 2.  **Completar la instalación.**
       * Abre tu navegador y ve a `http://localhost:8080`.
       * Pega la contraseña obtenida.
       * Selecciona **"Instalar plugins sugeridos"** y espera a que el proceso termine.
       * Crea tu usuario administrador.
 
+![Paso a Paso](/docker-in-docker/images/ezgif-7979b324f5b53b.gif)
 -----
 
 ## 3\. Backup para la Migración (Máquina Origen) 📦
