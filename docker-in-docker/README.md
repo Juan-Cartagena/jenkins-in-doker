@@ -66,7 +66,7 @@ Una vez que el contenedor está en ejecución, necesitas completar el asistente 
     *************************************************************
     *************************************************************
     ```
-    ![Ejemplo](/images/configuracion-inicial-jenkins.png)
+    ![Ejemplo](/docker-in-docker/images/configuracion-inicial-jenkins.png)
 2.  **Completar la instalación.**
       * Abre tu navegador y ve a `http://localhost:8080`.
       * Pega la contraseña obtenida.
