@@ -66,6 +66,7 @@ Una vez que el contenedor está en ejecución, necesitas completar el asistente 
     *************************************************************
     *************************************************************
     ```
+    
 2.  **Completar la instalación.**
       * Abre tu navegador y ve a `http://localhost:8080`.
       * Pega la contraseña obtenida.
