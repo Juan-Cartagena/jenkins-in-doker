@@ -1,0 +1,9 @@
+# plugins.txt
+
+# Plugins solicitados
+ssh-agent
+aws-credentials
+
+# Plugins básicos recomendados
+git
+workflow-aggregator
